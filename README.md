@@ -20,10 +20,7 @@ The objective is to compare and evaluate models like:
 Ensure the following are installed:
 - **Python 3.10+**
 - **Git**
-- Required Python packages:
-  ```bash
-  pip install -r requirements.txt
-  ```
+
 
 ---
 
