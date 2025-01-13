@@ -116,14 +116,3 @@ GitHub: [@norsechurros](https://github.com/norsechurros)
 
 ---
 
-### Steps to Use It:
-1. Save this content as `README.md` in your repository.
-2. Replace placeholder details (e.g., database links, personal details) with specifics of your project.
-3. Push it to GitHub using:
-   ```bash
-   git add README.md
-   git commit -m "Add project README"
-   git push
-   ```
-
-Let me know if further adjustments are required!
